@@ -1,0 +1,16 @@
+
+.icon-cloud:before { content: '\e800'; } /* '' */
+.icon-sun:before { content: '\e801'; } /* '' */
+.icon-moon:before { content: '\e802'; } /* '' */
+.icon-fog:before { content: '\e803'; } /* '' */
+.icon-cloud-sun:before { content: '\e804'; } /* '' */
+.icon-cloud-moon:before { content: '\e805'; } /* '' */
+.icon-rain:before { content: '\e806'; } /* '' */
+.icon-snow-heavy:before { content: '\e807'; } /* '' */
+.icon-wind:before { content: '\e808'; } /* '' */
+.icon-make-up:before { content: '\e809'; } /* '' */
+.icon-music:before { content: '\e80a'; } /* '' */
+.icon-map:before { content: '\e80b'; } /* '' */
+.icon-mind:before { content: '\e80c'; } /* '' */
+.icon-home:before { content: '\e80d'; } /* '' */
+.icon-youtube-play:before { content: '\f16a'; } /* '' */
